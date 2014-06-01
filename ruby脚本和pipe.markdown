@@ -1,6 +1,5 @@
 
-**原文: ** [Writing Ruby Scripts That Respect Pipelines](http://www.jstorimer.com/blogs/workingwithcode/7766125-writing-ruby-scripts-that-respect-pipelines) |
-**作者: ** Jesse Storimer
+**原文** [Writing Ruby Scripts That Respect Pipelines](http://www.jstorimer.com/blogs/workingwithcode/7766125-writing-ruby-scripts-that-respect-pipelines) By [Jesse Storimer](https://github.com/jstorimer)
 
 # [翻译]ruby脚本和pipe
 
